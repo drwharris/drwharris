@@ -27,6 +27,8 @@ Here are just some of the things I love to play with
 ![Azure](https://img.shields.io/badge/Platform-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=#0078D4)
 ![.Net](https://img.shields.io/badge/Tools-.Net-informational?style=flat&logo=dotnet&logoColor=white&color=#512BD4)
 ![C#](https://img.shields.io/badge/Tools-C%23-informational?style=flat&logo=csharp&logoColor=white&color=#512BD4)
+![TypeScript](https://img.shields.io/badge/Tools-TypeScript-informational?style=flat&logo=typescript&logoColor=#3178C6&color=#0B53CE)
 ![Visual Studio](https://img.shields.io/badge/Tools-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=#5C2D91)
 ![VS Code](https://img.shields.io/badge/Tools-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=#007ACC)
 ![Dynamics](https://img.shields.io/badge/Tools-D365-informational?style=flat&logo=dynamics365&logoColor=white&color=#0B53CE)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=#181717&color=#0B53CE)
