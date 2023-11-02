@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello, folks! 👋
-My name is An***dr***e***w** and I am a solutions architect thats been in the software development game for over 25 years.
+My name is An**dr**e**w** and I am a solutions architect thats been in the software development game for over 25 years.
 
 ## 🔧 Technologies & Tools
 Here are just some of the things I love to play with
@@ -25,7 +25,7 @@ Here are just some of the things I love to play with
 ![AWS](https://img.shields.io/badge/Platform-AWS-informational?style=plastic&logo=amazonaws&logoColor=white&color=#232F3E)
 ![Azure](https://img.shields.io/badge/Platform-Azure-informational?style=plastic&logo=microsoftazure&logoColor=white&color=#0078D4)
 ![Dynamics](https://img.shields.io/badge/Platform-D365-informational?style=plastic&logo=dynamics365&logoColor=white&color=#0B53CE)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-informational?style=plastic&logo=github&logoColor=#181717&color=#0B53CE)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-informational?style=plastic&logo=github&logoColor=#white&color=#0B53CE)
 ![.Net](https://img.shields.io/badge/Tools-.Net-informational?style=plastic&logo=dotnet&logoColor=white&color=#512BD4)
 ![C#](https://img.shields.io/badge/Languages-C%23-informational?style=plastic&logo=csharp&logoColor=white&color=#512BD4)
 ![TS](https://img.shields.io/badge/Languages-TypeScript-informational?style=plastic&logo=typescript&logoColor=white&color=#512BD4)
