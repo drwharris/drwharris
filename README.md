@@ -33,6 +33,7 @@ Here are just some of the things I love to play with
 ![VS Code](https://img.shields.io/badge/Tools-VS%20Code-informational?style=plastic&logo=visualstudiocode&logoColor=white&color=#007ACC)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=#2496ED)
 
+## 📈 My GitHub Stats
 <a href="https://github.com/drwharris">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=drwharris&show_icons=true&line_height=27&count_private=true" alt="My GitHub Stats" />
 </a>
