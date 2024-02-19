@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, folks! 👋
 Greetings, I'm Andrew, a seasoned software developer with over 25 years of experience, and I consider myself a veteran in the industry. My journey has provided me with diverse exposure, working across sectors such as Banking, Finance, Retail, Hospitality, Sporting, People Management, and eCommerce. Throughout my career, I've specialized in orchestrating seamless integrations between various systems, including Telephony, CRM, ERP, Payroll, Accounting, and Banking systems.
 
 While my coding journey began with VB6, I made a seamless transition to C# from its early days. After experimenting with Java for a few years, I eventually chose C# as my primary tool for building scalable and robust applications.
@@ -24,7 +23,7 @@ Beyond coding, I've embraced the role of a mentor in the software development re
 
 I'd describe my leadership style as a blend of technical and business acumen with a collaborative ethos, fostering environments where ideas flourish, and developers thrive.
 
-## 🔧 Technologies & Tools
+# 🔧 Technologies & Tools
 Here are just some of the things I love to play with
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=#FCC624)
@@ -39,7 +38,7 @@ Here are just some of the things I love to play with
 ![VS Code](https://img.shields.io/badge/Tools-VS%20Code-informational?style=plastic&logo=visualstudiocode&logoColor=white&color=#007ACC)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=#2496ED)
 
-## 📈 My GitHub Stats
+# 📈 My GitHub Stats
 <a href="https://github.com/drwharris">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=drwharris&show_icons=true&line_height=27&count_private=true" alt="My GitHub Stats" />
 </a>
