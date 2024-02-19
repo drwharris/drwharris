@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greetings, I'm Andrew, a seasoned software developer with over 25 years of experience, and I consider myself a veteran in the industry. My journey has provided me with diverse exposure, working across sectors such as Banking, Finance, Retail, Hospitality, Sporting, People Management, and eCommerce. Throughout my career, I've specialized in orchestrating seamless integrations between various systems, including Telephony, CRM, ERP, Payroll, Accounting, and Banking systems.
+Greetings, I'm Andrew, a seasoned software developer with over 25 years of experience. My journey has provided me with diverse exposure, working across sectors such as Banking, Finance, Retail, Hospitality, Sporting, People Management, and eCommerce. Throughout my career, I've specialized in orchestrating seamless integrations between various systems across Telephony, CRM, ERP, Payroll, Accounting, and Banking systems.
 
 While my coding journey began with VB6, I made a seamless transition to C# from its early days. After experimenting with Java for a few years, I eventually chose C# as my primary tool for building scalable and robust applications.
 
