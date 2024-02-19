@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 -->
 
 # Hello, folks! 👋
-My name is An**dr**e**w** and I am a solutions architect thats been in the software development game for over 25 years.
+Greetings, I'm Andrew, a seasoned software developer with over 25 years of experience, and I consider myself a veteran in the industry. My journey has provided me with diverse exposure, working across sectors such as Banking, Finance, Retail, Hospitality, Sporting, People Management, and eCommerce. Throughout my career, I've specialized in orchestrating seamless integrations between various systems, including Telephony, CRM, ERP, Payroll, Accounting, and Banking systems.
+
+While my coding journey began with VB6, I made a seamless transition to C# from its early days. After experimenting with Java for a few years, I eventually chose C# as my primary tool for building scalable and robust applications.
+
+I've also worked extensively with Amazon's AWS, more recently, I've been solely navigating the Microsoft Azure landscape.
+
+Beyond coding, I've embraced the role of a mentor in the software development realm. Alongside sharing coding and design insights, as a Certified ScrumMaster (CSM) I actively guide fellow developers through the intricacies of Scrum and the whole software development lifecycle. Consider me your dedicated tech mentor, nurturing developers and sculpting them into coding virtuosos one line of code at a time.
+
+I'd describe my leadership style as a blend of technical and business acumen with a collaborative ethos, fostering environments where ideas flourish, and developers thrive.
 
 ## 🔧 Technologies & Tools
 Here are just some of the things I love to play with
